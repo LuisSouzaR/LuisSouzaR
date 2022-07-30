@@ -17,6 +17,7 @@
   <img align="center" alt="Luis-Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luis-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Luis-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:1000px;" src="https://cdn.discordapp.com/attachments/479368573341532165/1003023330091212891/meu_avatar.jpeg">
 </div>
   
   ##
@@ -24,6 +25,7 @@
 <div> 
   <a href="https://www.instagram.com/luis_paulo_souza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luispaulosouza91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luis-paulo-de-souza-reis-91435b247/?trk=public-profile-join-page" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/LuisSouzaR/LuisSouzaR/blob/output/github-contribution-grid-snake.svg)
  
