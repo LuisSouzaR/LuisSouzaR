@@ -17,7 +17,6 @@
   <img align="center" alt="Luis-Csharp" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luis-SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Luis-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:1000px;" src="https://cdn.discordapp.com/attachments/479368573341532165/1003023330091212891/meu_avatar.jpeg">
 </div>
   
   ##
