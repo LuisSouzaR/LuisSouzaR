@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luis Paulo 👋
 
-- 🔭 Sou estudante do 1°Semestre em Desenvolvimento de Software Multiplataforna na FATE Prof Jassen Vidal, SJC, SP
+- 🔭 Sou estudante do 1°Semestre em Desenvolvimento de Software Multiplataforna na FATEC Prof Jassen Vidal, SJC, SP
 - 🌱 Atualmente estudando Python, JavaScript, React
 - 📫 Email para contato: luispaulosouza91@gmail.com
 - 🌎 Proficiente em Inglês US.
