@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Luis Paulo 👋
 
-- 🔭 Sou estudante do 3° Semestre da Escola de Engenharia de São Carlos (EESC-USP), São Carlos, SP
+- 🔭 Sou estudante do 3° Semestre em Engenharia Elétrica da Escola de Engenharia de São Carlos (EESC-USP), São Carlos, SP
 - 🌱 Atualmente estudando Python, JavaScript, React
 - 📫 Email para contato: luispaulosouza91@gmail.com
 - 🌎 Proficiente em Inglês US.
